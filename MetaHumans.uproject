@@ -65,6 +65,14 @@
 		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
+		},
+		{
+			"Name": "Fab",
+			"Enabled": false
+		},
+		{
+			"Name": "HairCardGenerator",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
@@ -73,12 +81,10 @@
 		"Stadia",
 		"Switch",
 		"XSX",
-		"Android",
-		"IOS",
 		"WindowsNoEditor",
-		"Mac",
 		"Windows",
-		"XboxOneGDK"
+		"XboxOneGDK",
+		"Mac"
 	],
 	"EpicSampleNameHash": "1807116563"
 }
