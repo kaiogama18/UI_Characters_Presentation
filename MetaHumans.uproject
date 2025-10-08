@@ -73,6 +73,10 @@
 		{
 			"Name": "HairCardGenerator",
 			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
